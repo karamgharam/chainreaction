@@ -32,7 +32,7 @@ android {
         dataBinding true
         viewBinding true
     }
-    namespace 'com.tentimelimited.ios'
+    namespace 'com.chainreaction.karam'
 }
 
 
