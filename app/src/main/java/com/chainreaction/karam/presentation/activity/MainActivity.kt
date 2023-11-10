@@ -42,6 +42,7 @@ class MainActivity : BaseActivity<MainViewModel, MainActivityBinding>() {
     }
 
     @SuppressLint("QueryPermissionsNeeded")
+    //u can put this fun in helper or utils
     fun shareFacebook(text: String) {
         var facebookAppFound = false
         var shareIntent = Intent(Intent.ACTION_SEND)

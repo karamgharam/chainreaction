@@ -33,7 +33,7 @@ class MainViewModel @Inject constructor(
 
     fun share() {
         val myData: MyDataResp? = sharedPreferencesUseCase.getPref("myData", MyDataResp::class.java)
-        //share the face form the saved data
+        //share the fact form the saved data
         if (myData != null)
             shareLiveData.value = Event(myData.fact)
 
