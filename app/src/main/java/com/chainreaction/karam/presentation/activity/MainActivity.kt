@@ -5,9 +5,9 @@ import android.content.ComponentName
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
+import com.chainreaction.karam.R
+import com.chainreaction.karam.databinding.MainActivityBinding
 import com.chainreaction.karam.utils.base.BaseActivity
-import com.tentimelimited.ios.R
-import com.tentimelimited.ios.databinding.MainActivityBinding
 import dagger.hilt.android.AndroidEntryPoint
 
 
