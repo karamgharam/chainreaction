@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Tentime Music</string>
+    <string name="no_download_disc" >Music that you download appear here</string>
+    <string name="facebook_app_id" translatable="false">437418614735846</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb437418614735846</string>
+
+</resources>

@@ -1,0 +1,197 @@
+{
+  "project_info": {
+    "project_number": "408871419183",
+    "firebase_url": "https://tentime-android-testing.firebaseio.com",
+    "project_id": "tentime-android-testing",
+    "storage_bucket": "tentime-android-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408871419183:android:59987c2ec5b69d149af5da",
+        "android_client_info": {
+          "package_name": "com.tentimelimited.ios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408871419183-204n1q0tfl7kum1o16bpn7itr7gk8djk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "2ab8d654fdf12231b9c77658b0e4a9d45e756378"
+          }
+        },
+        {
+          "client_id": "408871419183-2lvgmuddm4snalg5bnjvqvl0mhko1e76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "38c14a3a16871bd4340a4f923ba472cfa82bb370"
+          }
+        },
+        {
+          "client_id": "408871419183-31n8te64epac698er42ubpdunsu52q46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "52af59843c5a7c6a4897e2087dca2e0165a943be"
+          }
+        },
+        {
+          "client_id": "408871419183-7po2kka8cr6fj24ttdg1mr4auhmmfsai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "5b4c586560e02d5dfad708b179fdd1477e57ca2d"
+          }
+        },
+        {
+          "client_id": "408871419183-88sqd9pt7qdaqc8751re48923e4fgt8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "738639f5fefc80af8bd38eeab16aed587b97bbe7"
+          }
+        },
+        {
+          "client_id": "408871419183-8ecpca8as5t6v1psopgqctscfslatpon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "17762736cc04ef325be83b3cc049020bf9ca2a2e"
+          }
+        },
+        {
+          "client_id": "408871419183-9oeep72vqb55o9a78fp3j3t5vjrf4ie4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "0ec019d279794eb61d55226365bfbe918cf5b002"
+          }
+        },
+        {
+          "client_id": "408871419183-9pfnar650lheou0np85qa5rikc6he16k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "1a8f8e0b09f97e4d7ae031d2f68530a3ea448fc5"
+          }
+        },
+        {
+          "client_id": "408871419183-g88qnfr3buooliibvq904tre3t5m3ujn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "af9a64d01acf08cb8e1c44bf845bfda0415935da"
+          }
+        },
+        {
+          "client_id": "408871419183-kqmdbh0b07ggf4pnb1taqhcasv9i1q5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "c3c9639d3793be8e27f748ba3c1ffc0b53a546a6"
+          }
+        },
+        {
+          "client_id": "408871419183-qifc4p5j7819s177064tg58cmga8fin3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "abfaae35ab7822bfff77e30292f71348dd7810fa"
+          }
+        },
+        {
+          "client_id": "408871419183-qv5vmkhd4vbkfpei8upqc3hdliv5hf7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "b066652271539c92f031d72ca90a8e63a86fad60"
+          }
+        },
+        {
+          "client_id": "408871419183-stba91h827j9l5lp1s0k696oto1osclt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "038ef8aea31075726f21e84841852d232c1f4a48"
+          }
+        },
+        {
+          "client_id": "408871419183-utrnfor50c3jp7nkre81davomrh3oh75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "0a449913f4b55b1cb8d63e68dc1b9f89c5641c8b"
+          }
+        },
+        {
+          "client_id": "408871419183-vt51spuk2fn3goj15b9rjj951rdb4pc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.ios",
+            "certificate_hash": "16bcd98d33ec9248cf0e1e9bca0f509169ab42ea"
+          }
+        },
+        {
+          "client_id": "408871419183-ei2c7hifld35aettrgf4hu0vup3thgsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbdXBItxaAk0rSUX_3X5yYJilyx8TCTLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408871419183-ei2c7hifld35aettrgf4hu0vup3thgsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408871419183:android:f55cb917d3f383059af5da",
+        "android_client_info": {
+          "package_name": "com.tentimelimited.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408871419183-1ocuc7nlg47l4oobaukimsijk295cpcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tentimelimited.music",
+            "certificate_hash": "738639f5fefc80af8bd38eeab16aed587b97bbe7"
+          }
+        },
+        {
+          "client_id": "408871419183-ei2c7hifld35aettrgf4hu0vup3thgsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbdXBItxaAk0rSUX_3X5yYJilyx8TCTLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408871419183-ei2c7hifld35aettrgf4hu0vup3thgsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
